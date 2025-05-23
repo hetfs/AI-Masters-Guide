@@ -1,0 +1,67 @@
+# 
+
+# Legal Terms
+
+arbitration_clause
+breach_of_contract
+confidential_information
+force_majeure
+indemnification
+intellectual_property
+jurisdiction
+non_disclosure_agreement
+service_level_agreement
+termination_for_convenience
+
+# Medical Terms
+
+clinical_trial
+FDA_approval
+HIPAA_compliance
+informed_consent
+medical_malpractice
+patient_confidentiality
+pharmacovigilance
+telemedicine
+
+# Technology Terms (Case-Insensitive Matching)
+
+(?i)Artificial Intelligence
+(?i)Blockchain
+(?i)Cloud Computing
+(?i)Cryptocurrency
+(?i)Decentralized Finance
+(?i)Internet of Things
+(?i)Machine Learning
+(?i)Neural Network
+(?i)Quantum Computing
+(?i)Smart Contract
+(?i)Big Data
+JavaScript
+TypeScript
+React
+Node.js
+API
+CLI
+GitHub
+Markdown
+MDX
+SEO
+reStructuredText
+AsciiDoc
+front matter
+Hugo
+VS Code
+Visual Studio Code
+command-line interface
+application programming interface
+toolset
+backlink
+
+APA
+
+MLA
+
+Pluggable
+
+Evernote

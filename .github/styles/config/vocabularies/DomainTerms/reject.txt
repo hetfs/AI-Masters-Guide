@@ -1,0 +1,28 @@
+# Incorrect or discouraged legal terms
+
+[Nn]on[- ]?disclosure[- ]?agreement
+[iI]ntellectual[- ]?property[- ]?rights
+[Ff]orce[- ]?majeure[- ]?clause
+
+# Incorrect or inconsistent medical terms
+
+[Pp]atient[- ]?data[- ]?privacy
+[Ff]ederal[- ]?Drug[- ]?Administration
+
+# Common technology misuses
+
+[Bb]lock chain
+[Cc]rypto[- ]?currency
+[Ii]nternet[- ]?of[- ]?things
+[Aa]rtifical[- ]?intelligence
+[Qq]uantum[- ]?computing[- ]?algorithm
+Javascript
+Typescript
+ReactJS
+NodeJS
+Github
+MarkDown
+reST
+Asciidoc
+Frontmatter
+VSCode
