@@ -87,7 +87,7 @@ To keep the project clean and consistent:
 │   ├── 📂 guide/            # Study plans by learning phase
 │   ├── 📂 resources/        # Curated books, tools, datasets, papers
 │   ├── 📂 projects/         # Project prompts, walkthroughs, solutions
-│   └── 📂 Tutorials/        # Tutorials, how-to articles, best practices
+│   └── 📂 tutorials/        # Tutorials, how-to articles, best practices
 ├── 📂 static/               # Static assets (images, logos, etc.)
 ├── 📂 src/                  # Custom components and styles
 ├── 📄 docusaurus.config.js # Docusaurus configuration
