@@ -1,6 +1,6 @@
 # 🤝 Contributing to the AI Mastery Roadmap
 
-Thank you for your interest in contributing to the **AI Mastery Roadmap**! 🎉  
+Thank you for your interest in contributing to the **AI Mastery Guide**! 🎉  
 Whether you're fixing a typo, adding a new resource, suggesting a project, or improving documentation—**your contribution matters**.
 
 This is an open-source initiative designed for learners and practitioners of all levels. Let’s build a world-class, free AI learning platform together. 🚀
@@ -15,8 +15,8 @@ This is an open-source initiative designed for learners and practitioners of all
 | 🛠️ Project Ideas / Repos | Hands-on projects, GitHub repos, notebooks                    |
 | 📅 Timeline Improvements  | Study plans, phase refinements, new topic additions           |
 | 🧠 Expert Insights        | Advanced topics, career guidance, AI ethics & safety insights |
-| 🧹 General Improvements   | Typos, formatting, link fixes, structure reorganization       |
-| 🌍 Translations           | Localized versions of existing content                        |
+| 🧹 General Improvements   | Typos, formatting, link fixes, structure reorganisation       |
+| 🌍 Translations           | Localised versions of existing content                        |
 
 ---
 
@@ -82,12 +82,12 @@ To keep the project clean and consistent:
 ## 📂 Project Structure Overview
 
 ```bash
-📂 AI-Mastery-Roadmap/
+📂 AI-Mastery-Guide/
 ├── 📂 docs/                 # Main content for documentation
-│   ├── 📂 roadmap/          # Study plans by learning phase
+│   ├── 📂 guide/            # Study plans by learning phase
 │   ├── 📂 resources/        # Curated books, tools, datasets, papers
 │   ├── 📂 projects/         # Project prompts, walkthroughs, solutions
-│   └── 📂 guides/           # Tutorials, how-to articles, best practices
+│   └── 📂 Tutorials/        # Tutorials, how-to articles, best practices
 ├── 📂 static/               # Static assets (images, logos, etc.)
 ├── 📂 src/                  # Custom components and styles
 ├── 📄 docusaurus.config.js # Docusaurus configuration
