@@ -28,7 +28,7 @@ This is an open-source initiative designed for learners and practitioners of all
 2. **Clone Your Fork Locally**
    
    ```bash
-   git clone https://github.com/YOUR-USERNAME/AI-Masters-Guide.git
+   git clone https://github.com/hetfs/AI-Masters-Guide.git
    cd AI-Masters-Guide
    ```
 
