@@ -1,4 +1,4 @@
-# 🤝 Contributing to the AI Mastery Roadmap
+# 🤝 Contributing to the AI Mastery Guide
 
 Thank you for your interest in contributing to the **AI Mastery Guide**! 🎉  
 Whether you're fixing a typo, adding a new resource, suggesting a project, or improving documentation—**your contribution matters**.
