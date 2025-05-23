@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- // @ts-check
-=======
 // @ts-check
->>>>>>> d2577ca (first commit)
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
@@ -18,11 +14,7 @@ const config = {
   tagline: 'AI Masters Guide',
   favicon: 'img/favicon.ico',
 
-<<<<<<< HEAD
   // Set the production URL of your site here
-=======
-  // Set the production url of your site here
->>>>>>> d2577ca (first commit)
   url: 'https://hetfs.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -37,13 +29,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-<<<<<<< HEAD
   // Even if you don't use internationalisation, you can use this field to set
   // useful metadata like HTML lang. For example, if your site is Chinese, you
-=======
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
->>>>>>> d2577ca (first commit)
   // may want to replace "en" with "zh-Hans".
   
 
