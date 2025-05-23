@@ -1,4 +1,4 @@
- # 🤖 AI Mastery: From Zero to Expert
+# 🤖 AI Mastery: From Zero to Expert
 
 **Embark on your AI journey with hands-on projects, top-tier resources, and an active learning community — all for free.**  
 *Designed for total beginners through advanced learners, this 12–18 month roadmap lets you progress at your own pace.*
@@ -42,11 +42,11 @@ cd AI-Masters-Guide
   
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   
-- [Khan Academy – Math for AI](https://www.khanacademy.org/computing/computer-science/cryptography)
+- [Khan Academy – Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
   
-- [freeCodeCamp: Data Loading with Python](https://www.freecodecamp.org/news/data-loading-with-python-and-ai/)
+- [Data Loading with Python and AI – freeCodeCamp](https://www.freecodecamp.org/news/data-loading-with-python-and-ai/)
   
-- [YouTube: Python Full Course for Beginners](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+- [Python Full Course for Beginners – YouTube](https://www.youtube.com/watch?v=eWRfhZUzrAc)
   
 
 ---
@@ -58,15 +58,15 @@ cd AI-Masters-Guide
 
 **Key Resources:**
 
-- [Andrew Ng’s ML Course – Coursera](https://www.coursera.org/learn/machine-learning)
+- [Andrew Ng’s Machine Learning Course – Coursera](https://www.coursera.org/learn/machine-learning)
   
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
   
-- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
   
-- [freeCodeCamp: ML with Python](https://www.freecodecamp.org/news/introduction-to-machine-learning-with-python/)
+- [Machine Learning with Python and Scikit-Learn – freeCodeCamp](https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/)
   
-- [YouTube: ML Course for Beginners](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- [Machine Learning for Everybody – YouTube](https://www.youtube.com/watch?v=i_LwzRVP7bg)
   
 
 ---
@@ -84,13 +84,13 @@ cd AI-Masters-Guide
   
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/)
   
-- [Deep RL Nanodegree (Free Trial)](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+- [Deep Reinforcement Learning Nanodegree (Free Trial) – Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
   
-- [YouTube: Deep Learning for Beginners](https://www.youtube.com/watch?v=aircAruvnKk)
+- [Deep Learning for Beginners – YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
   
-- [freeCodeCamp: NLP for Beginners](https://www.freecodecamp.org/news/natural-language-processing-for-beginners/)
+- [NLP Tutorial – Text Pre-Processing Techniques for Beginners – freeCodeCamp](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)
   
-- [Intro to RL with OpenAI Gym](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
+- [An Introduction to Reinforcement Learning – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
   
 
 ---
@@ -107,11 +107,11 @@ cd AI-Masters-Guide
   
 - [ML Ops with Google](https://developers.google.com/machine-learning/operations)
   
-- [Streamlit Deployment Tutorial](https://www.freecodecamp.org/news/how-to-deploy-machine-learning-models-using-streamlit/)
+- [Deploying Machine Learning Models with Streamlit and Docker – YouTube](https://www.youtube.com/watch?v=mJgk5VJUGKE)
   
-- [Dockerize ML API with FastAPI](https://www.freecodecamp.org/news/how-to-dockerize-a-machine-learning-api-fastapi-example/)
+- [How to Deploy an NLP Model with FastAPI – freeCodeCamp](https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/)
   
-- [AI Ethics & Bias](https://www.freecodecamp.org/news/a-i-ethics-and-bias-explained-simply/)
+- [The Ethics of AI and ML – freeCodeCamp](https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/)
   
 
 ---
@@ -163,27 +163,27 @@ Participate in online forums, meetups, and hackathons.
 
 ## 🤝 **Contribute to the Roadmap**
 
-1. Fork the repo
+1. **Fork the repo**
   
-2. Create a feature branch:
+2. **Create a feature branch:**
   
   ```bash
   git checkout -b feature/YourFeatureName
   ```
   
-3. Commit your changes:
+3. **Commit your changes:**
   
   ```bash
   git commit -m "Add your feature"
   ```
   
-4. Push to GitHub:
+4. **Push to GitHub:**
   
   ```bash
   git push origin feature/YourFeatureName
   ```
   
-5. Open a Pull Request 🚀
+5. **Open a Pull Request 🚀**
   
 
 📜 [Contribution Guidelines](https://github.com/hetfs/AI-Masters-Guide/blob/main/CONTRIBUTING.md)
