@@ -2,46 +2,100 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 👋 Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to **AI Mastery: From Zero to Expert** — a structured, project-driven roadmap designed to take you from complete beginner to confident AI practitioner. Whether you’re just starting with Python or aiming to deploy advanced AI models, this guide combines **hands-on coding, automation, data handling, and AI projects** into one learning path.
 
-## Getting Started
+This is more than just tutorials. It’s a **complete curriculum** where each chapter ends with projects that let you apply your skills to real-world problems. By the end, you’ll have a portfolio of practical work covering **automation, data science, AI, and deployment** the exact skills used by professionals in the field.
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+# 📚 What You’ll Learn
 
-### What you'll need
+The roadmap is organized into **chapters**, each with theory, exercises, and projects. Every project comes with a **starter code template** you can clone and expand.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+* **Introduction**
+  *Setup your environment, write your first Python program, and understand how this roadmap works.*
 
-## Generate a new site
+* **Chapter 1: Python Basics**
+  → *Project: [Temperature Converter App 🌡️](projects/chapter01_temperature_converter/starter.py)*
 
-Generate a new Docusaurus site using the **classic template**.
+* **Chapter 2: If-Else and Flow Control**
+  → *Project: [Grade Calculator 📊](projects/chapter02_grade_calculator/starter.py)*
 
-The classic template will automatically be added to your project after you run the command:
+* **Chapter 3: Loops**
+  → *Project: [Multiplication Quiz Game 🎮](projects/chapter03_quiz_game/starter.py)*
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+* **Chapter 4: Functions**
+  → *Project: [Calculator with Reusable Functions ➕✖️](projects/chapter04_calculator/starter.py)*
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+* **Chapter 5: Debugging**
+  → *Project: [Bug-Fix Challenge 🔍](projects/chapter05_debugging/starter.py)*
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+* **Chapter 6: Lists**
+  → *Project: [To-Do List Manager ✅](projects/chapter06_todo_list/starter.py)*
 
-## Start your site
+* **Chapter 7: Dictionaries and Structuring Data**
+  → *Project: [Contact Book 📒](projects/chapter07_contact_book/starter.py)*
 
-Run the development server:
+* **Chapter 8: Strings and Text Editing**
+  → *Project: [Word Frequency Counter 📖](projects/chapter08_word_counter/starter.py)*
 
-```bash
-cd my-website
-npm run start
-```
+* **Chapter 9: Text Pattern Matching with Regular Expressions**
+  → *Project: [Email & Phone Extractor 📬](projects/chapter09_regex_extractor/starter.py)*
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+* **Chapter 10: Reading and Writing Files**
+  → *Project: [Log File Analyzer 📝](projects/chapter10_log_analyzer/starter.py)*
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+* **Chapter 11: Organizing Files**
+  → *Project: [Automatic File Sorter 🗂️](projects/chapter11_file_sorter/starter.py)*
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* **Chapter 12: Designing and Deploying Command Line Programs**
+  → *Project: [CLI Password Generator 🔑](projects/chapter12_password_generator/starter.py)*
+
+* **Chapter 13: Web Scraping**
+  → *Project: [News Headlines Scraper 📰](projects/chapter13_web_scraper/starter.py)*
+
+* **Chapter 14: Excel Spreadsheets**
+  → *Project: [Sales Report Analyzer 📊](projects/chapter14_excel_analyzer/starter.py)*
+
+* **Chapter 15: Google Sheets**
+  → *Project: [Live Expense Tracker 💵](projects/chapter15_google_sheets/starter.py)*
+
+* **Chapter 16: SQLite Databases**
+  → *Project: [Student Records Database 🎓](projects/chapter16_sqlite_db/starter.py)*
+
+* **Chapter 17: PDF and Word Documents**
+  → *Project: [PDF Invoice Generator 📄](projects/chapter17_pdf_invoice/starter.py)*
+
+* **Chapter 18: CSV, JSON, and XML Files**
+  → *Project: [Weather Data Dashboard ⛅](projects/chapter18_data_dashboard/starter.py)*
+
+* **Chapter 19: Keeping Time, Scheduling Tasks, and Launching Programs**
+  → *Project: [Automated Daily Backup Scheduler ⏰](projects/chapter19_task_scheduler/starter.py)*
+
+* **Chapter 20: Sending Email, Texts, and Push Notifications**
+  → *Project: [Email & SMS Reminder System 📧📱](projects/chapter20_notifications/starter.py)*
+
+* **Chapter 21: Making Graphs and Manipulating Images**
+  → *Project: [Data Visualization Dashboard 📈](projects/chapter21_visualizer/starter.py)*
+
+* **Chapter 22: Recognizing Text in Images**
+  → *Project: [Receipt OCR Tool 🧾](projects/chapter22_ocr_tool/starter.py)*
+
+* **Chapter 23: Controlling the Keyboard and Mouse**
+  → *Project: [Auto-Clicker & Form Filler 🖱️](projects/chapter23_auto_clicker/starter.py)*
+
+* **Chapter 24: Text-to-Speech and Speech Recognition Engines**
+  → *Project: [Voice-Controlled Assistant 🎙️](projects/chapter24_voice_assistant/starter.py)*
+
+---
+
+### 📑 Appendices
+
+* **Appendix A: Installing Third-Party Packages**
+* **Appendix B: Answers to the Practice Questions**
+
+---
+
+💡 *Each chapter links to a ready-to-run starter template so you can focus on learning, not setup. Fork the repo, pick a chapter, and start building!*

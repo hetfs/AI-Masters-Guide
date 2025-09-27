@@ -52,11 +52,11 @@ This is an open-source initiative designed for learners and practitioners of all
   ```bash
   git push origin feature/my-awesome-idea
   ```
-  
+
 7. **Open a Pull Request (PR)**  
   Go to the main repo and submit a PR from your fork.  
   Clearly explain what you changed and why.
-  
+
 
 ---
 
