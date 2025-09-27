@@ -1,0 +1,25 @@
+{
+  "id": "python/basics/introduction",
+  "title": "Introduction",
+  "description": "Setup your environment, write your first Python program, and understand how this roadmap works.",
+  "source": "@site/docs/python/basics/01-introduction.md",
+  "sourceDirName": "python/basics",
+  "slug": "/python/basics/introduction",
+  "permalink": "/AI-Masters-Guide/docs/python/basics/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/python/basics/01-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Basics",
+    "permalink": "/AI-Masters-Guide/docs/category/python-basics"
+  }
+}

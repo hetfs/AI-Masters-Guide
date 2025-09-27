@@ -39,8 +39,8 @@ Clone or download the repo, pick a project, and start coding immediately!
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/python-starters.git
-cd python-starters
+git clone https://github.com/hetfs/AI-Masters-Guide.git
+cd projects/python-starters/
 
 # Run any project
 python calculator.py

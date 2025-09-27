@@ -25,8 +25,9 @@ sidebar_position: 1
    * During installation, check the box **“Add Python to PATH”**.
 
 2. **Install a Code Editor**
-   - Recommended: [VS Code](https://code.visualstudio.com/)
-   - Alternative: [PyCharm](https://www.jetbrains.com/pycharm/)
+   * Recommended: [VS Code](https://code.visualstudio.com/)
+   * Alternative: [PyCharm](https://www.jetbrains.com/pycharm/)
+   * Advance user: [Nveovim](https://neovim.io/)
 
 3. **Verify Installation**
    Open a terminal and run:

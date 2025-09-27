@@ -1,14 +1,14 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "👋 Introduction",
+  "description": "Welcome to AI Mastery: From Zero to Expert — a structured, project-driven roadmap designed to take you from complete beginner to confident AI practitioner. Whether you’re just starting with Python or aiming to deploy advanced AI models, this guide combines hands-on coding, automation, data handling, and AI projects into one learning path.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/AI-Masters-Guide/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Python Basics",
+    "permalink": "/AI-Masters-Guide/docs/category/python-basics"
   }
 }
