@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 👋 Introduction
+# 👋 Getting Started
 
 Welcome to **AI Mastery: From Zero to Expert** — a structured, project-driven roadmap designed to take you from complete beginner to confident AI practitioner. Whether you’re just starting with Python or aiming to deploy advanced AI models, this guide combines **hands-on coding, automation, data handling, and AI projects** into one learning path.
 
@@ -18,7 +18,7 @@ The roadmap is organized into **chapters**, each with theory, exercises, and pro
   *Setup your environment, write your first Python program, and understand how this roadmap works.*
 
 * **Chapter 1: Python Basics**
-  → *Project: [Temperature Converter App 🌡️](projects/chapter01_temperature_converter/starter.py)*
+  → *Project: [Temperature Converter App 🌡️](../projects/)*
 
 * **Chapter 2: If-Else and Flow Control**
   → *Project: [Grade Calculator 📊](projects/chapter02_grade_calculator/starter.py)*

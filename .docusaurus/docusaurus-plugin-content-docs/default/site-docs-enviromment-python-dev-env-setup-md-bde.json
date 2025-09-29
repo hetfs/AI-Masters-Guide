@@ -1,0 +1,24 @@
+{
+  "id": "enviromment/python_dev_env_setup",
+  "title": "🐍 Python Developer Environment",
+  "description": "A Python developer environment is the complete setup of tools, libraries, and configurations you use to write, run, and manage Python applications. Setting up a clean environment ensures consistency, productivity, and fewer errors when building projects.",
+  "source": "@site/docs/enviromment/python_dev_env_setup.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/python_dev_env_setup",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/python_dev_env_setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/python_dev_env_setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍏 Setting Up Python Environment on macOS",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/macOS_env_setup"
+  },
+  "next": {
+    "title": "🐧 Setting Up VS Code for Python Development on Linux",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_linux_setup"
+  }
+}

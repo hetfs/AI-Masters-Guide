@@ -1,0 +1,24 @@
+{
+  "id": "enviromment/vscode_windows_setup",
+  "title": "🪟 Setting Up VS Code on Windows for Python Development",
+  "description": "This guide shows you how to configure Visual Studio Code (VS Code) on Windows for a smooth Python development workflow.",
+  "source": "@site/docs/enviromment/vscode_windows_setup.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/vscode_windows_setup",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_windows_setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/vscode_windows_setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍎 Setting Up VS Code for Python Development on macOS",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_mocOS_setup"
+  },
+  "next": {
+    "title": "🪟 Setting Up Python Environment on Windows",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/windows_env_setup"
+  }
+}

@@ -42,30 +42,62 @@
       "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
     }
   },
-  "/AI-Masters-Guide/docs-a99": {
+  "/AI-Masters-Guide/docs-ad5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---ai-masters-guide-docsaba-37a"
     }
   },
-  "/AI-Masters-Guide/docs-420": {
+  "/AI-Masters-Guide/docs-c94": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---ai-masters-guide-docs-49-d-4e6"
   },
-  "/AI-Masters-Guide/docs-ed5": {
+  "/AI-Masters-Guide/docs-0e9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/AI-Masters-Guide/docs/category/python-basics-ce5": {
+  "/AI-Masters-Guide/docs/category/-python-basics-b70": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ai-masters-guide-docs-category-python-basicsa-11-f78"
+    "__props": "__props---ai-masters-guide-docs-category-python-basicsf-15-859"
+  },
+  "/AI-Masters-Guide/docs/category/-python-env-config-9f2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---ai-masters-guide-docs-category-python-env-config-6-cf-c88"
+  },
+  "/AI-Masters-Guide/docs/enviromment/01-python-env-config-080": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-01-python-env-configef-8-9f8"
+  },
+  "/AI-Masters-Guide/docs/enviromment/02-package-manager-895": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-02-package-manager-88-a-5fe"
+  },
+  "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools-d55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-03-code-quality-toolsa-98-aed"
+  },
+  "/AI-Masters-Guide/docs/enviromment/04-windows-config-5d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-04-windows-configd-31-4af"
+  },
+  "/AI-Masters-Guide/docs/enviromment/05-macOS-config-7ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-05-mac-os-congi-mkdir-967-bae"
+  },
+  "/AI-Masters-Guide/docs/enviromment/06-lunix-config-77e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-enviromment-lunix-confige-3-d-b75"
   },
   "/AI-Masters-Guide/docs/intro-cc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ai-masters-guide-docs-intro-0-e-3-0fc"
   },
-  "/AI-Masters-Guide/docs/python/basics/introduction-598": {
+  "/AI-Masters-Guide/docs/python/basics/01-programming-ef3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-python-basics-introduction-600-cbb"
+    "content": "content---ai-masters-guide-docs-python-basics-01-programming-2-ae-33d"
+  },
+  "/AI-Masters-Guide/docs/python/basics/02-what-is-python-731": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-masters-guide-docs-python-basics-02-what-is-python-601-2bc"
   },
   "/AI-Masters-Guide/-27b": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -39,19 +39,61 @@ export default [
   },
   {
     path: '/AI-Masters-Guide/docs',
-    component: ComponentCreator('/AI-Masters-Guide/docs', 'a99'),
+    component: ComponentCreator('/AI-Masters-Guide/docs', 'ad5'),
     routes: [
       {
         path: '/AI-Masters-Guide/docs',
-        component: ComponentCreator('/AI-Masters-Guide/docs', '420'),
+        component: ComponentCreator('/AI-Masters-Guide/docs', 'c94'),
         routes: [
           {
             path: '/AI-Masters-Guide/docs',
-            component: ComponentCreator('/AI-Masters-Guide/docs', 'ed5'),
+            component: ComponentCreator('/AI-Masters-Guide/docs', '0e9'),
             routes: [
               {
-                path: '/AI-Masters-Guide/docs/category/python-basics',
-                component: ComponentCreator('/AI-Masters-Guide/docs/category/python-basics', 'ce5'),
+                path: '/AI-Masters-Guide/docs/category/-python-basics',
+                component: ComponentCreator('/AI-Masters-Guide/docs/category/-python-basics', 'b70'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/category/-python-env-config',
+                component: ComponentCreator('/AI-Masters-Guide/docs/category/-python-env-config', '9f2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/01-python-env-config',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/01-python-env-config', '080'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/02-package-manager',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/02-package-manager', '895'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/03-code-quality-tools',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/03-code-quality-tools', 'd55'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/04-windows-config',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/04-windows-config', '5d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/05-macOS-config',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/05-macOS-config', '7ad'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/enviromment/06-lunix-config',
+                component: ComponentCreator('/AI-Masters-Guide/docs/enviromment/06-lunix-config', '77e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -62,8 +104,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/AI-Masters-Guide/docs/python/basics/introduction',
-                component: ComponentCreator('/AI-Masters-Guide/docs/python/basics/introduction', '598'),
+                path: '/AI-Masters-Guide/docs/python/basics/01-programming',
+                component: ComponentCreator('/AI-Masters-Guide/docs/python/basics/01-programming', 'ef3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/AI-Masters-Guide/docs/python/basics/02-what-is-python',
+                component: ComponentCreator('/AI-Masters-Guide/docs/python/basics/02-what-is-python', '731'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

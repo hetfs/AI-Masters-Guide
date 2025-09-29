@@ -11,18 +11,58 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "enviromment/01-python-env-config",
+              "path": "/AI-Masters-Guide/docs/enviromment/01-python-env-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviromment/02-package-manager",
+              "path": "/AI-Masters-Guide/docs/enviromment/02-package-manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviromment/03-code-quality-tools",
+              "path": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviromment/04-windows-config",
+              "path": "/AI-Masters-Guide/docs/enviromment/04-windows-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviromment/05-macOS-config",
+              "path": "/AI-Masters-Guide/docs/enviromment/05-macOS-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enviromment/06-lunix-config",
+              "path": "/AI-Masters-Guide/docs/enviromment/06-lunix-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/AI-Masters-Guide/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "python/basics/introduction",
-              "path": "/AI-Masters-Guide/docs/python/basics/introduction",
+              "id": "python/basics/01-programming",
+              "path": "/AI-Masters-Guide/docs/python/basics/01-programming",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/python-basics",
-              "path": "/AI-Masters-Guide/docs/category/python-basics",
+              "id": "python/basics/02-what-is-python",
+              "path": "/AI-Masters-Guide/docs/python/basics/02-what-is-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-python-env-config",
+              "path": "/AI-Masters-Guide/docs/category/-python-env-config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-python-basics",
+              "path": "/AI-Masters-Guide/docs/category/-python-basics",
               "sidebar": "tutorialSidebar"
             }
           ],

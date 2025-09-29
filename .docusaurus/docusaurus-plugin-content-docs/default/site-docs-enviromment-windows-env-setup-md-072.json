@@ -1,0 +1,24 @@
+{
+  "id": "enviromment/windows_env_setup",
+  "title": "🪟 Setting Up Python Environment on Windows",
+  "description": "This guide walks you through installing and configuring Python on Windows for development using multiple methods.",
+  "source": "@site/docs/enviromment/windows_env_setup.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/windows_env_setup",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/windows_env_setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/windows_env_setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪟 Setting Up VS Code on Windows for Python Development",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_windows_setup"
+  },
+  "next": {
+    "title": "🐍 Python Basics",
+    "permalink": "/AI-Masters-Guide/docs/category/-python-basics"
+  }
+}

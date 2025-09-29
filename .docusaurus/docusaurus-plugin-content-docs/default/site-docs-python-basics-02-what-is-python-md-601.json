@@ -1,0 +1,25 @@
+{
+  "id": "python/basics/02-what-is-python",
+  "title": "Introduction to Python",
+  "description": "The Programming Language That Speaks Your Mind",
+  "source": "@site/docs/python/basics/02-what-is-python.md",
+  "sourceDirName": "python/basics",
+  "slug": "/python/basics/02-what-is-python",
+  "permalink": "/AI-Masters-Guide/docs/python/basics/02-what-is-python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/python/basics/02-what-is-python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "02-what-is-python",
+    "title": "Introduction to Python",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Programming?",
+    "permalink": "/AI-Masters-Guide/docs/python/basics/01-programming"
+  }
+}

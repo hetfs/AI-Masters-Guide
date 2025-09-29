@@ -1,0 +1,24 @@
+{
+  "id": "enviromment/vscode_mocOS_setup",
+  "title": "🍎 Setting Up VS Code for Python Development on macOS",
+  "description": "VS Code is a powerful, lightweight IDE that's perfect for Python development on macOS. Here's a complete setup guide tailored for Apple's ecosystem.",
+  "source": "@site/docs/enviromment/vscode_mocOS_setup.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/vscode_mocOS_setup",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_mocOS_setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/vscode_mocOS_setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐧 VS Code for Python Development on Linux",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_linux_setup"
+  },
+  "next": {
+    "title": "🪟 Setting Up VS Code on Windows for Python Development",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/vscode_windows_setup"
+  }
+}

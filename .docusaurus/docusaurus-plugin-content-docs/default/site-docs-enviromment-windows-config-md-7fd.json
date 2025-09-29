@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/04-windows-config",
+  "title": "🪟 Setup python on windows",
+  "description": "This guide helps you set up Python and Visual Studio Code (VS Code) for development on Windows.",
+  "source": "@site/docs/enviromment/windows-config.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/04-windows-config",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/04-windows-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/windows-config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "04-windows-config",
+    "title": "🪟 Setup python on windows",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧹 Code Quality Tools",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools"
+  },
+  "next": {
+    "title": "🐧 Python Development Environment on Linux (with VS Code)",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/lunix-config"
+  }
+}

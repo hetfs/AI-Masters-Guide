@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/01-python-env-config",
+  "title": "🐍 Python Dev Setup",
+  "description": "A solid Python environment is the foundation for writing, testing, and maintaining code effectively. It combines tools, configurations, and workflows that ensure consistency, productivity, and smooth collaboration.",
+  "source": "@site/docs/enviromment/01-python-env-config.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/01-python-env-config",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/01-python-env-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/01-python-env-config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "01-python-env-config",
+    "title": "🐍 Python Dev Setup",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐍 Python Env Config",
+    "permalink": "/AI-Masters-Guide/docs/category/-python-env-config"
+  },
+  "next": {
+    "title": "📦 Package Management",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/02-package-manager"
+  }
+}

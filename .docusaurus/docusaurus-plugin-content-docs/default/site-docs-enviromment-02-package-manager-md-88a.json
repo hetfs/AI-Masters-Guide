@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/02-package-manager",
+  "title": "📦 Package Management",
+  "description": "Choose the right tool for installing and managing Python packages, libraries, and applications:",
+  "source": "@site/docs/enviromment/02-package-manager.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/02-package-manager",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/02-package-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/02-package-manager.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "02-package-manager",
+    "title": "📦 Package Management",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐍 Python Dev Setup",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/01-python-env-config"
+  },
+  "next": {
+    "title": "🧹 Code Quality Tools",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools"
+  }
+}

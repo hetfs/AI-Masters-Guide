@@ -1,6 +1,6 @@
 # 🤖 AI Mastery: From Zero to Expert
 
-**Embark on your AI journey with hands-on projects, top-tier resources, and an active learning community — all for free.**  
+**Embark on your AI journey with hands-on projects, top-tier resources, and an active learning community — all for free.**
 *Designed for total beginners through advanced learners, this 12–18 month roadmap lets you progress at your own pace.*
 
 ---
@@ -39,15 +39,10 @@ cd AI-Masters-Guide
 **Key Resources:**
 
 - [Python for Everybody – Coursera](https://www.coursera.org/specializations/python)
-  
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-  
 - [Khan Academy – Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-  
 - [Data Loading with Python and AI – freeCodeCamp](https://www.freecodecamp.org/news/data-loading-with-python-and-ai/)
-  
 - [Python Full Course for Beginners – YouTube](https://www.youtube.com/watch?v=eWRfhZUzrAc)
-  
 
 ---
 
@@ -59,15 +54,10 @@ cd AI-Masters-Guide
 **Key Resources:**
 
 - [Andrew Ng’s Machine Learning Course – Coursera](https://www.coursera.org/learn/machine-learning)
-  
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
-  
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-  
 - [Machine Learning with Python and Scikit-Learn – freeCodeCamp](https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/)
-  
 - [Machine Learning for Everybody – YouTube](https://www.youtube.com/watch?v=i_LwzRVP7bg)
-  
 
 ---
 
@@ -79,40 +69,28 @@ cd AI-Masters-Guide
 **Key Resources:**
 
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
-  
 - [OpenAI Gymnasium](https://gymnasium.farama.org/)
-  
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/)
-  
 - [Deep Reinforcement Learning Nanodegree (Free Trial) – Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
-  
 - [Deep Learning for Beginners – YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
-  
 - [NLP Tutorial – Text Pre-Processing Techniques for Beginners – freeCodeCamp](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)
-  
 - [An Introduction to Reinforcement Learning – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
-  
 
 ---
 
 ### 🚀 Phase 4: Specialization & Real-World Deployment *(Months 13–18)*
 
-**Focus Areas:** AI in Healthcare 🏥 • Robotics 🤖 • AI Ethics 📜  
-**Projects:** MedMNIST Classifier 🩺, Streamlit App Deployment 🚀  
+**Focus Areas:** AI in Healthcare 🏥 • Robotics 🤖 • AI Ethics 📜
+**Projects:** MedMNIST Classifier 🩺, Streamlit App Deployment 🚀
 **Tech Stack:** Docker • FastAPI • ROS
 
 **Key Resources:**
 
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
-  
 - [ML Ops with Google](https://developers.google.com/machine-learning/operations)
-  
 - [Deploying Machine Learning Models with Streamlit and Docker – YouTube](https://www.youtube.com/watch?v=mJgk5VJUGKE)
-  
 - [How to Deploy an NLP Model with FastAPI – freeCodeCamp](https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/)
-  
 - [The Ethics of AI and ML – freeCodeCamp](https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/)
-  
 
 ---
 
@@ -146,17 +124,17 @@ Stay current, dive deeper, and connect with the AI ecosystem:
 
 ### 📚 Essential Books & Papers
 
-Foundational theory and breakthrough research.  
+Foundational theory and breakthrough research.
 → [Books & Research Library](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/books.md)
 
 ### 🛠️ Frameworks & Tools
 
-Everything you need to build and deploy AI systems.  
+Everything you need to build and deploy AI systems.
 → [Explore Tools & Platforms](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/tools.md)
 
 ### 🌍 Join the Global Community
 
-Participate in online forums, meetups, and hackathons.  
+Participate in online forums, meetups, and hackathons.
 → [Find AI Communities](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/communities.md)
 
 ---
@@ -164,26 +142,17 @@ Participate in online forums, meetups, and hackathons.
 ## 🤝 **Contribute to the Roadmap**
 
 1. **Fork the repo**
-  
 2. **Create a feature branch:**
-  
   ```bash
   git checkout -b feature/YourFeatureName
   ```
-  
 3. **Commit your changes:**
-  
   ```bash
   git commit -m "Add your feature"
   ```
-  
 4. **Push to GitHub:**
-  
-  ```bash
   git push origin feature/YourFeatureName
-  ```
-  
+
 5. **Open a Pull Request 🚀**
-  
 
 📜 [Contribution Guidelines](https://github.com/hetfs/AI-Masters-Guide/blob/main/CONTRIBUTING.md)

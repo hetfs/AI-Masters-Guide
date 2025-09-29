@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/03-code-quality-tools",
+  "title": "🧹 Code Quality Tools",
+  "description": "Automated tools help keep Python code clean, consistent, and error-free. They catch issues early, enforce standards, and improve maintainability.",
+  "source": "@site/docs/enviromment/03-code-quality-tools.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/03-code-quality-tools",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/03-code-quality-tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "03-code-quality-tools",
+    "title": "🧹 Code Quality Tools",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Package Management",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/02-package-manager"
+  },
+  "next": {
+    "title": "🪟 Setup python on windows",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/04-windows-config"
+  }
+}

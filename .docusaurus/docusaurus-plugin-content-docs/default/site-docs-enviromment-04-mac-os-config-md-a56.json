@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/05-macOS-congi.mkdir",
+  "title": "🍏 Setup python on macOS",
+  "description": "This guide helps you set up Python and Visual Studio Code (VS Code) for development on macOS, including virtual environments, extensions, and debugging.",
+  "source": "@site/docs/enviromment/04-macOS-config.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/05-macOS-congi.mkdir",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/05-macOS-congi.mkdir",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/04-macOS-config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "05-macOS-congi.mkdir",
+    "title": "🍏 Setup python on macOS",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪟 Setup python on windows",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/04-windows-config"
+  },
+  "next": {
+    "title": "🐧 Python Development Environment on Linux (with VS Code)",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/lunix-config"
+  }
+}

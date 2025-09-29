@@ -13,7 +13,6 @@ export default {
   "organizationName": "hetfs",
   "projectName": "AI Masters Guide",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
   "presets": [
     [
       "classic",
@@ -348,13 +347,19 @@ export default {
     "localeConfigs": {}
   },
   "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
     "experimental_faster": {
       "swcJsLoader": false,
       "swcJsMinimizer": false,
       "swcHtmlMinimizer": false,
       "lightningCssMinimizer": false,
       "mdxCrossCompilerCache": false,
-      "rspackBundler": false
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
     },
     "experimental_storage": {
       "type": "localStorage",
@@ -379,6 +384,7 @@ export default {
   "markdown": {
     "format": "mdx",
     "mermaid": false,
+    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
@@ -386,6 +392,10 @@ export default {
     },
     "anchors": {
       "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
     }
   }
 };

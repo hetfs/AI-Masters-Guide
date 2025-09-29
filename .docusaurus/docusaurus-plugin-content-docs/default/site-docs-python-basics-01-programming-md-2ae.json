@@ -1,0 +1,29 @@
+{
+  "id": "python/basics/01-programming",
+  "title": "What is Programming?",
+  "description": "The Perfect Analogy: Teaching a Literal Friend",
+  "source": "@site/docs/python/basics/01-programming.md",
+  "sourceDirName": "python/basics",
+  "slug": "/python/basics/01-programming",
+  "permalink": "/AI-Masters-Guide/docs/python/basics/01-programming",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/python/basics/01-programming.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "01-programming",
+    "title": "What is Programming?",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐍 Python Basics",
+    "permalink": "/AI-Masters-Guide/docs/category/-python-basics"
+  },
+  "next": {
+    "title": "Introduction to Python",
+    "permalink": "/AI-Masters-Guide/docs/python/basics/02-what-is-python"
+  }
+}

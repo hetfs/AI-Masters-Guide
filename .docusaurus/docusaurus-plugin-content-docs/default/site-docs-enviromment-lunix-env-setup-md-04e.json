@@ -1,0 +1,24 @@
+{
+  "id": "enviromment/lunix_env_setup",
+  "title": "🐧 Setting Up Python Environment on Linux",
+  "description": "Before starting with the AI Mastery roadmap, make sure you have a proper Python environment ready.",
+  "source": "@site/docs/enviromment/lunix_env_setup.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/lunix_env_setup",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/lunix_env_setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/lunix_env_setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧹 Code Quality Tools",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools"
+  },
+  "next": {
+    "title": "🍏 Setting Up Python Environment on macOS",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/macOS_env_setup"
+  }
+}

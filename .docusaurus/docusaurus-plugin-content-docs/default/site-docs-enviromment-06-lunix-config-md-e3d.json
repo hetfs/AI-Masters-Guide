@@ -1,0 +1,29 @@
+{
+  "id": "enviromment/06-lunix-config",
+  "title": "🐧 Setup python on Linux",
+  "description": "This guide sets up Python and Visual Studio Code (VS Code) for development on Linux, with support for both Bash and Fish shell users.",
+  "source": "@site/docs/enviromment/06-lunix-config.md",
+  "sourceDirName": "enviromment",
+  "slug": "/enviromment/06-lunix-config",
+  "permalink": "/AI-Masters-Guide/docs/enviromment/06-lunix-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/06-lunix-config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "06-lunix-config",
+    "title": "🐧 Setup python on Linux",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍏 Setup python on macOS",
+    "permalink": "/AI-Masters-Guide/docs/enviromment/05-macOS-config"
+  },
+  "next": {
+    "title": "🐍 Python Basics",
+    "permalink": "/AI-Masters-Guide/docs/category/-python-basics"
+  }
+}
