@@ -100,9 +100,38 @@ deactivate
 
 ## 🛠️ Editors & IDEs
 
-* **[VS Code](https://code.visualstudio.com/docs/languages/python)** → Lightweight & extensible
-* **[PyCharm](https://www.jetbrains.com/pycharm/)** → Full-featured IDE
-* **[JupyterLab](https://jupyter.org/)** → Interactive data science workflows
+- **[VS Code](https://code.visualstudio.com/docs/languages/python)**: Lightweight, fast, and highly extensible
+- **[PyCharm](https://www.jetbrains.com/pycharm/)**: Full-featured professional IDE for Python
+- **[JupyterLab](https://jupyter.org/)**: Interactive environment for data science and research workflows
+* [Neovim](https://neovim.io/): A powerful choice for advanced users who prefer keyboard-driven workflows
+
+---
+
+## 🌐 Best Online Open-Source Code Editors
+
+For beginners, **[Visual Studio Code for the Web](https://vscode.dev)** is an excellent starting point. It delivers a professional editing experience with **zero setup**, letting learners code directly in the browser.
+
+Here’s a quick comparison of popular online editors useful for tutorials:
+
+| Editor | Best For | Key Features | Beginner Considerations |
+| :--- | :--- | :--- | :--- |
+| **VS Code for the Web** | General-purpose coding, quick start | Familiar VS Code interface; IntelliSense for JS/TS/HTML/CSS; GitHub integration; extensions support | **Best all-around choice**: professional feel, minimal setup, and broad language coverage |
+| **CodeSandbox** | Front-end prototyping (React, Vue, etc.) | GitHub import; static & full-stack support; embeddable projects; CLI for uploads | Strong focus on web dev; great for showcasing finished examples |
+| **StackBlitz** | Full-stack JavaScript/Node.js | Powered by WebContainers; run backend code in-browser; GitHub import; offline support | More complex; excellent for tutorials covering both front-end and back-end |
+| **CodePen** | Quick front-end snippets & sharing | Simple 3-panel layout (HTML/CSS/JS); active community; easy project sharing | Limited to front-end; less like a real IDE |
+
+---
+
+### 💁 Getting Started with VS Code for the Web
+
+1. **Access Instantly** → Visit [vscode.dev](https://vscode.dev) in any modern browser. No installation or account required.
+2. **Open a Project** → Start fresh with a new file or open a GitHub repo directly via a URL like:
+```
+
+[https://vscode.dev/github/](https://vscode.dev/github/)<username>/<repo>
+
+```
+3. **Start Coding** → Enjoy syntax highlighting, intelligent code completions, and bracket colorization for most languages. Rich IntelliSense is available for JavaScript, HTML, and CSS.
 
 ---
 
